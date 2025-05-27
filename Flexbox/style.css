@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    /* flex-direction: column; */
+    background-color: aliceblue;
+    border: 2px solid black;
+    justify-content: space-between;
+    padding: 10px;
+    flex-direction: row;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.childs{
+    padding: 20px;
+    width: 70px;
+}
+
+.item1{
+    background-color: aqua;
+
+}
+.item2{
+    background-color: blue;
+}
+.item3{
+    background-color: rgb(26, 133, 127);
+}
+.item4{
+    background-color: blue;
+}
+.item5{
+    background-color: rgb(119, 71, 84);
+}
+.item6{
+    background-color: rgb(119, 71, 84);
+}

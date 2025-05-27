@@ -1,0 +1,48 @@
+
+
+
+.container{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    position: relative;
+    background-color: rgb(195, 174, 214);
+}
+
+.contain{
+      border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+   left: 50px;
+   top: 50px;
+   background-color: azure;
+    
+
+}
+
+.mini-contain{
+      border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+   left: 50px;
+   top: 50px;
+   background-color: aqua;
+
+}
+.margin-container{
+    position: relative;
+    left: 120px;
+}
+.padding-container{
+    position:relative;
+    left: 70px;
+}
+.content-container{
+    position: relative;
+    top: 10px;
+    left: 25px;
+    
+} 
