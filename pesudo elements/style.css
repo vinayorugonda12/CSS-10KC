@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+  
+    }
+
+
+    /* p::first-letter{
+        font-size: 60px;
+        color: brown;
+
+    }
+
+    p::first-line{
+        color: blue;
+    }
+
+    p::selection{
+        background-color: aquamarine;
+    } */
+
+   body{
+    
+    border: 2px solid ;
+    width: 10rem;
+    height: 10rem;
+    margin: auto;
+    
+   }
+
+   
