@@ -1,0 +1,29 @@
+.container{
+    width: 150px;
+    height: 150px;
+    background-color: lightpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition-property: all;
+    margin: auto;
+}
+
+
+
+.container>p{
+    font-size: 20px;
+    /* z-index: 0 */
+    opacity: 0;
+
+      background-color: lightgreen;
+    transition-duration: 2s;
+    /* transition-delay: 2s; */
+    transition-timing-function: ease-in-out;
+    /* padding: 20px; */
+}
+p:hover{
+  
+        opacity: 1 ;
+
+}
